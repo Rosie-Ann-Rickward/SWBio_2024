@@ -14,7 +14,7 @@ This folder contains:
 * (note this file was made by merging the marine benthic invertebrate dataset collected by the Environmental Agency: https://environment.data.gov.uk/ecology/explorer/downloads/TC_BENT_OPEN_DATA_TAXA.zip with the Biosys Taxon Info sheet: https://environment.data.gov.uk/ecology/explorer/downloads/OPEN_DATA_TAXON_INFO.zip )
 * The two page report: Brief_Report
 
-* The shpaefile needed for mapping the Thames Estuary: gis_osm_water_a_free_1.shp can be extracted from the england-latest-free.shp.zip                                        
+* The shapefile needed for mapping the Thames Estuary: gis_osm_water_a_free_1.shp can be extracted from the england-latest-free.shp.zip                                        
 * (note: this folder was downloaded from Geofabrik: https://download.geofssabrik.de/europe/united-kingdom/england-latest-free.shp.zip/gis_osm_water_a_free_1.shp)
 * This file was too large even for Git LFS so user will have to download, extract and save files to their own working directory.
 
